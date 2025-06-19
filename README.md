@@ -1,4 +1,3 @@
-# CODSOFT-2
 # CODSOFT
 Kodimala Hemanth Kumar 
 This repository contains my task submissions for the C++ Programming Internship at CodSoft.
