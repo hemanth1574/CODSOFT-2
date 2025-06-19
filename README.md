@@ -18,6 +18,6 @@ option to restart game
 Language: C++
 Tools: VS Code
 ## Submission 
-**GitHub repo**: calculator.cpp
+**GitHub repo**: [calculator.cpp](https://github.com/hemanth1574/CODSOFT-2.git)
 **LinkedIn Link**: [https://www.linkedin.com/posts/hemath-kumar-a54053365_codsoft-cpp-programming-activity-7341396613745078272-3eca?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFqY_yABCVEMyVzT9twK4Ta3u3vXzS6iYHw]
 Video Proof Shared on LinkedIn with #codSoft
